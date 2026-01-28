@@ -16,4 +16,4 @@ author_profile: true
 ## Links
 - UH Computer Science Department: https://www.cs.uh.edu  
 - LinkedIn: https://www.linkedin.com/in/jazlyn-haywood-046b32334/  
-- Resume (PDF): /files/Jazlyn_Haywood_Resume.pdf
+- Resume (PDF): /files/JazlynHaywoodResume.pdf
