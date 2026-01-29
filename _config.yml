@@ -23,7 +23,7 @@ repository               : "lovedjazlyn/lovedjazlyn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : /images/profile.jpg 
+  avatar           : <img src="/images/profile.jpg" width="180">
   name             : "Jazlyn Haywood"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science major at University of Houston"
