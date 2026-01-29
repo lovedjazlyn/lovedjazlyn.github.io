@@ -7,7 +7,7 @@ author_profile: true
 
 # Jazlyn Haywood
 
-![Profile Picture](/images/profile.jpg)
+<img src="/images/profile.jpg" width="180">
 
 ## Education
 - University of Houston — B.S. Computer Science (in progress)
