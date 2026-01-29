@@ -23,13 +23,13 @@ repository               : "lovedjazlyn/lovedjazlyn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : <img src="/images/profile.jpg" width="180">
-  name             : "Jazlyn Haywood"
+  avatar           : #
+  name             : #
   pronouns         : # example: "she/her"  
-  bio              : "Computer Science major at University of Houston"
-  location         : "Katy, TX"
+  bio              : #
+  location         : #
   uri              : # URL
-  email            : "jazlynhaywood@gmail.com" 
+  email            : #
 
   # Academic websites
   academia         : # URL
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "lovedjazlyn"
+  github           : #
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
