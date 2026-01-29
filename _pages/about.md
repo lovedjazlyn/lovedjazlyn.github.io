@@ -1,8 +1,8 @@
 ---
 layout: single
-title: 
+title: Home
 permalink: /
-author_profile: true
+author_profile: false
 ---
 
 # Jazlyn Haywood
