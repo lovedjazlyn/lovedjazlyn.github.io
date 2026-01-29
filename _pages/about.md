@@ -11,9 +11,9 @@ author_profile: true
 
 ## Education
 - University of Houston — B.S. Computer Science (in progress)
-- Lone Star College–CyFair — A.S. (completed)
+- Lone Star College–CyFair — A.S. Computer Science (completed)
 
 ## Links
-- UH Computer Science Department: https://www.cs.uh.edu  
-- LinkedIn: https://www.linkedin.com/in/jazlyn-haywood-046b32334/  
-- Resume (PDF): /files/JazlynHaywoodResume.pdf
+- [UH Computer Science Department](https://www.cs.uh.edu)
+- [LinkedIn](https://www.linkedin.com/in/jazlyn-haywood-046b32334/)  
+- [Resume](/files/JazlynHaywoodResume.pdf)
